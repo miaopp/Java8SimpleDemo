@@ -105,6 +105,5 @@ public class FunctionalInterface {
         }
         //遍历map
         map.forEach((key, value) -> System.out.println(value));
-
     }
 }
